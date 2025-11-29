@@ -1,4 +1,3 @@
-# python
 # Day1 -check positive/negative and check odd/even
 
 num = int(input("Enter a number: "))
